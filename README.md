@@ -2,6 +2,13 @@
 
 A lightweight C++ app using **wxWidgets** and **MariaDB/MySQL** for basic user login.
 
+
+## Preview
+
+![image](https://github.com/user-attachments/assets/e5ca98c7-dfe4-4934-a592-6e9a28dd9280)
+
+
+
 ---
 
 ## Requirements
@@ -12,7 +19,7 @@ sudo apt-get install libmariadb-dev libwxgtk-gl3.2-1t64
 
 ---
 
-## 🛠️ Build
+## Build
 
 ```bash
 mkdir build
