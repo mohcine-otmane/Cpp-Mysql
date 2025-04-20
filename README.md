@@ -14,7 +14,9 @@ A lightweight C++ app using **wxWidgets** and **MariaDB/MySQL** for basic user l
 ## Requirements
 
 ```bash
-sudo apt-get install libmariadb-dev libwxgtk-gl3.2-1t64
+
+# For Mariadb and XWidgets
+sudo apt-get install libwxgtk3.2-dev libmariadb-dev
 ```
 
 ---
